@@ -4,10 +4,7 @@
 
 
 class Square:
+    """class defined for square generation
+    """
     def __init__(self, size):
-        """
-        Initialize a square with a given size.
-        :param size: The size of the square
-        """
-
         self.__size = size
