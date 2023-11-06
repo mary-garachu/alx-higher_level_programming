@@ -4,6 +4,6 @@ Module with the BaseGeometry method
 """
 
 
-class BaseGeometry():
+class BaseGeometry:
     """an empty class BaseGeometry"""
     pass
