@@ -3,5 +3,5 @@
 -- where score >= 10
 SELECT score, name
 FROM second_table
-WHERE score >= 21
+WHERE score >= 10
 ORDER BY score DESC;
